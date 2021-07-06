@@ -1,4 +1,4 @@
-# Robot Arm parts assembly
+# Fighting Robot Arm parts assembly
 ### Assembly of Robot Arm (Fighting Robot) which is project to smart methodes company.
 
 <img width="424" alt="Screen Shot 1442-11-26 at 3 21 02 AM" src="https://user-images.githubusercontent.com/74800962/124525812-4ba35780-de09-11eb-812b-504f545261c2.png">
